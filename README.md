@@ -2,12 +2,12 @@
 
 Learning Express.js for living.
 
-# Initialization
+#### Initialization
 ```
 npm init
 ```
 
-# Dependencies
+#### Dependencies
 ```
 npm i nodemon -D
 ```
